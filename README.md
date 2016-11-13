@@ -3,3 +3,4 @@ An Android app that implements a Music Player Application which has options to l
 <br><br>
 <a href="url"><img src="https://github.com/sbajaj7/Music-Player-Android-App/blob/master/one.png" align="center" height="500" width="300" ></a>
 <a href="url"><img src="https://github.com/sbajaj7/Music-Player-Android-App/blob/master/two.png" align="center" height="500" width="300" ></a>
+<a href="url"><img src="https://github.com/sbajaj7/Music-Player-Android-App/blob/master/three.png" align="center" height="500" width="300" ></a>
